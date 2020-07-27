@@ -2,6 +2,7 @@
 
 - My github's website: https://mardsilva.github.io/
 - 📫 How to reach me: eym_silva@outlook.com
+- ⚡ Fun fact: I'm Arctic Code Vault Contributor \o/
 
 <!--
 **MardSilva/MardSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
