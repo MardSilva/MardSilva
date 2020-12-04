@@ -22,12 +22,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:eymsilva@gmail.com?cc=eym_silva@outlook.com&subject=Contato%20GitHub&body=Ol%C3%A1%20Eymard.%20Tudo%20bem%3F!%20%0ABom%2C%20eu%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20link%20que%20voc%C3%AA%20disponibilizou%20no%20seu%20GitHub.%20%0A%0AO%20meu%20motivo%20de%20contato%20%C3%A9" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:eymsilva@gmail.com?cc=eym_silva@outlook.com&subject=Contato%20GitHub&body=Ol%C3%A1%20Eymard.%20Tudo%20bem%3F!%20%0ABom%2C%20eu%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20link%20que%20voc%C3%AA%20disponibilizou%20no%20seu%20GitHub.%20%0A%0AO%20meu%20motivo%20de%20contato%20%C3%A9" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/eymardsilva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eymardsilva/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.link/96p3z3" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.link/96p3z3"/></a>
 </p>  
