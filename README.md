@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Sobre o Eymard">
 
 <p align="left"> 
-  Olá, prazer. Meu nome é Eymard e sou <strong>Desenvolvedor .NET</strong>.<br>
+  Olá, prazer. Meu nome é Eymard e sou <strong>Analista de Sistemas</strong>.<br>
   
   Atualmente, trabalho na Cooperativa Central Ailos, e mantenho também meus projetos pessoais totalmente Open Source.
   Aqui é onde você vai poder encontrar bastante do que faço, e claro, do meu espaço para expressar toda minha criatividade.
